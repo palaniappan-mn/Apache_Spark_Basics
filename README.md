@@ -1,2 +1,2 @@
 # Apache_Spark
-This contains files to read, transform and write data from/to hdfs or Hive using Spark.
+This repository contains basic spark code to read, write and manipulate data using both spark sql and spark data frames.
